@@ -25,4 +25,4 @@ form.addEventListener('submit', (event) =>{
 
     renderPokemon(input.value);
 
-}
+});
